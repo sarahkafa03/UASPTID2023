@@ -2,7 +2,7 @@
 
 # MakanYuk
 
-Tugas Akhir Mata Kuliah Pemrograman Bergerak oleh Kelompok Restoran.
+Tugas Akhir Mata Kuliah Pemrograman Mobile oleh kelompok 3.
 
 ## Anggota Kelompok
 
