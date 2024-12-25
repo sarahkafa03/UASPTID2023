@@ -2,7 +2,7 @@
 
 # MakanYuk
 
-Tugas Akhir Mata Kuliah Pemrograman Mobile oleh kelompok 3.
+Tugas Akhir Mata Kuliah Pemrograman Mobile oleh kelompok 10.
 
 ## Anggota Kelompok
 
